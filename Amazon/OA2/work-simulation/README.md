@@ -1,11 +1,15 @@
-============================================================
 Q1: Schedule the design review meeting (1)
 ============================================================
 1 - We can take our best guess at an estimate on our own
+
 2 - We should work for a couple of days to gauge our progress, and then complete our estimate from there
+
 4 - We should consult a coworker who has more relevant experience on this type of task
+
 3 - We should conduct our own investigation utilizing online research materials and internal documentation
+
 5 - Let's ask our manager how we should go about developing an estimate
+
 
 
 ============================================================
