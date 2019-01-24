@@ -120,9 +120,13 @@ Database field storing username is too short
 
 ## Q16: New product design
 *Deadline should be met*
+
 *Median cannot surpass 8 too much*
+
 *Same value, sort based on deadline*
+
 *Same deadline, sort based on value*
+
 2 - A, C, D, G
 
 1 - A, C, D, G, H
