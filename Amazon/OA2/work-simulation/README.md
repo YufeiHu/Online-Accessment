@@ -1,5 +1,4 @@
-Q1: Schedule the design review meeting (1)
-============================================================
+### Q1: Schedule the design review meeting (1)
 1 - We can take our best guess at an estimate on our own
 
 2 - We should work for a couple of days to gauge our progress, and then complete our estimate from there
