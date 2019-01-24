@@ -10,8 +10,7 @@
 5 - Let's ask our manager how we should go about developing an estimate
 
 
-Q2: Schedule the design review meeting (2)
-============================================================
+## Q2: Schedule the design review meeting (2)
 3 - Ask all parties to identify a back-up person who could meet during a designated time
 
 3 - See if there is a backup person on the Localization Team that can meet
@@ -25,8 +24,7 @@ Q2: Schedule the design review meeting (2)
 4 - Agree to schedule the meeting at Xavier's location an hour away
 
 
-Q3: Response to Ravi
-============================================================
+## Q3: Response to Ravi
 4 - We should miss the conference and increase the timeline to four weeks because we have four weeks of work
 
 4 - Take a day to investigate whether adding additional resources would allow us to meet the original timeline, and re-evaluate afterwards
@@ -38,43 +36,35 @@ Q3: Response to Ravi
 2 - We can still hit the two week deadline without any changes by working harder and putting in overtime
 
 
-Q4: Respones to Aaron and Jacob
-============================================================
+## Q4: Respones to Aaron and Jacob
 Can you tell me more about what you're talking about?
 
 
-Q5: Respond to Ravi
-============================================================
+## Q5: Respond to Ravi
 Begin your investigation using the old error logs, but tell Ravi he will need to run the new logs if the old logs aren't useful
 
 
-Q?
-============================================================
+## Q?
 Tell me more
 
 
-Q?
-============================================================
+## Q?
 Internal bug
 
 
-Q?
-============================================================
+## Q?
 Service 3 is the problem, but I would like to see another report to confirm
 
 
-Q10: Most likely cause of German language issue
-============================================================
+## Q10: Most likely cause of German language issue
 Site is using proxy server location to determine displayed language
 
 
-Q11: Most likely cause of invalid recommendation issue
-============================================================
+## Q11: Most likely cause of invalid recommendation issue
 Database field storing username is too short
 
 
-Q12: Log trace investivation success
-============================================================
+## Q12: Log trace investivation success
 5 - Increase time alotted for testing in overall lifecycle
 
 5 - Update automated end-to-end tests to include broader data coverage
@@ -88,8 +78,7 @@ Q12: Log trace investivation success
 1 - Have more user testing in beta phase
 
 
-Q13: Response for meeting the deadline
-============================================================
+## Q13: Response for meeting the deadline
 2 - Work on the project on your own, putting in extra effort to finish on time
 
 3 - Work on the project on your own until Priya is available, then continue to work on it together
@@ -103,8 +92,7 @@ Q13: Response for meeting the deadline
 3 - Start working on the project right away with Ben. Then ask Priya to contribute what she can when she is avaliable
 
 
-Q14: Response for completing this work on time
-============================================================
+## Q14: Response for completing this work on time
 4 - Work with the Customer Incentives Team to identify the critical features that they need by the deadline, and focus on those
 
 2 - Push the timeline back another week to ensure there is enough time for all work to be completed accurately
@@ -116,8 +104,7 @@ Q14: Response for completing this work on time
 1 - Put in extra hours yourself to make sure everything gets done on time
 
 
-Q15: Upgrade
-============================================================
+## Q15: Upgrade
 4 - We should not perform this upgrade at this point in time. We promised the Retail Website Team we would have their new features complete by the proposed deadline. Let's postpone the upgrade to another time
 
 2 - We should not perform the upgrade because it will not have a significant impact on the Retail Website Team's experience. We should focus on the Retail Website Team's requests
@@ -131,12 +118,11 @@ Q15: Upgrade
 2 - I think we should perform the upgrade. The right thing to do is push back on the Retail Website Team because it will allow us to more efficiently serve the customer and the customer will be helped in the long run.
 
 
-Q16: New product design
-============================================================
-### Deadline should be met
-### Median cannot surpass 8 too much
-### Same value, sort based on deadline
-### Same deadline, sort based on value
+## Q16: New product design
+*Deadline should be met*
+*Median cannot surpass 8 too much*
+*Same value, sort based on deadline*
+*Same deadline, sort based on value*
 2 - A, C, D, G
 
 1 - A, C, D, G, H
@@ -150,18 +136,15 @@ Q16: New product design
 3 - F, G
 
 
-Q18: Problem with Product.wasPurchasedByUser()
-============================================================
+## Q18: Problem with Product.wasPurchasedByUser()
 It has performance issue
 
 
-Q19: Most effective way of improving ShoppingCart()
-============================================================
+## Q19: Most effective way of improving ShoppingCart()
 Change the design of ShoppingCart by removing ShoppingCart user and making shopping cart a property of User instead
 
 
-Q20: Five tests within ShoppingCartTest()
-============================================================
+## Q20: Five tests within ShoppingCartTest()
 Fail - Test1
 
 Pass - Test2
@@ -173,8 +156,7 @@ Pass - Test4
 Fail - Test5
 
 
-Q21: Ask Jacob a question
-============================================================
+## Q21: Ask Jacob a question
 3 - Do any other projects depend on fixing this problem?
 
 5 - How many customers is this affecting?
