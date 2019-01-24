@@ -36,11 +36,11 @@
 2 - We can still hit the two week deadline without any changes by working harder and putting in overtime
 
 
-## Q4: Respones to Aaron and Jacob
+## Q4: Response to Aaron and Jacob
 Can you tell me more about what you're talking about?
 
 
-## Q5: Respond to Ravi
+## Q5: Response to Ravi
 Begin your investigation using the old error logs, but tell Ravi he will need to run the new logs if the old logs aren't useful
 
 
