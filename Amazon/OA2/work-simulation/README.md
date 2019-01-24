@@ -24,8 +24,8 @@
 4 - Agree to schedule the meeting at Xavier's location an hour away
 
 
-## Q3: Response to Ravi
-4 - We should miss the conference and increase the timeline to four weeks because we have four weeks of work
+## Q3: Response to Ravi (1)
+3 - We should miss the conference and increase the timeline to four weeks because we have four weeks of work
 
 4 - Take a day to investigate whether adding additional resources would allow us to meet the original timeline, and re-evaluate afterwards
 
@@ -36,24 +36,28 @@
 2 - We can still hit the two week deadline without any changes by working harder and putting in overtime
 
 
-## Q4: Response to Aaron and Jacob
-Can you tell me more about what you're talking about?
-
-
-## Q5: Response to Ravi
+## Q4: Response to Ravi (2)
 Begin your investigation using the old error logs, but tell Ravi he will need to run the new logs if the old logs aren't useful
 
 
-## Q?
-Tell me more
+## Q5: Response to Aaron and Jacob (1)
+Can you tell me more about what you're talking about?
 
 
-## Q?
-Internal bug
+## Q6: Response to Aaron and Jacob (2)
+You said we have an internal database of both digital and physical books. How did we get the physical book data if the Book Database API doesn't give it to us?
 
 
-## Q?
-Service 3 is the problem, but I would like to see another report to confirm
+## Q7: Response to Aaron and Jacob (3)
+I recommend you go with Jacob's solution. We should miss the deadline to build our own service and meet all the requirements.
+
+
+## Q8: Roadmap
+Since you know more about the programming language than anyone else, you revise the estimate for porting to Java.
+
+
+## Q9: Response to Nadia
+What were the internal test case results?
 
 
 ## Q10: Most likely cause of German language issue
@@ -138,6 +142,9 @@ Database field storing username is too short
 5 - A, D, F
 
 3 - F, G
+
+
+## Q17: ？
 
 
 ## Q18: Problem with Product.wasPurchasedByUser()
