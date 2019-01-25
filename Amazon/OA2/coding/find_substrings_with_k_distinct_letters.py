@@ -1,26 +1,35 @@
 """
 @author: Yufei Hu
-@date: 01/23/2019
+@date: 01/24/2019
 @source: 
 """
 
-def find_substrings_with_k_distinct_letters(string, k):
+def is_valid(status):
+    for cnt in status:
+        if cnt != 0 and cnt != 1:
+            return False
+    return True
+
+def subStringsKDist(string, k):
+    if len(string) < k:
+        return list()
+    
     ans = set()
-    for i in range(len(string)):
-        letters_memo = [0] * 26
-        num_distinct = 0
-        for j in range(i, len(string)):
-            index = ord(string[j]) - ord('a')
-            letters_memo[index] += 1
-            if letters_memo[index] == 1:
-                num_distinct += 1
-
-            if num_distinct == k:
-                ans.add(string[i: j + 1])
-            elif num_distinct > k:
-                break
-    return ans
-
-string = "abcdabc"
-k = 3
-print(find_substrings_with_k_distinct_letters(string, k))
+    status = [0] * 26
+    for i in range(k):
+        index = ord(string[i]) - ord('a')
+        status[index] += 1
+    if is_valid(status):
+        ans.add(string[0: k])
+    
+    l = 0
+    while l + k < len(string):
+        index = ord(string[l]) - ord('a')
+        status[index] -= 1
+        index = ord(string[l + k]) - ord('a')
+        status[index] += 1
+        if is_valid(status):
+            ans.add(string[l + 1: l + 1 + k])
+        l += 1
+        
+    return list(ans)
