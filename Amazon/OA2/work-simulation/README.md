@@ -1,3 +1,8 @@
+References:
+[!https://wdxtub.com/interview/14520850399861.html](https://wdxtub.com/interview/14520850399861.html)
+[!https://www.1point3acres.com/bbs ... ghlight=amazon%2Boa](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=445121&highlight=amazon%2Boa)
+
+
 ## Q1: Schedule the design review meeting (1)
 1 - We can take our best guess at an estimate on our own
 
