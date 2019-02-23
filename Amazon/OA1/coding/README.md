@@ -1,3 +1,4 @@
+<center>
 |                 Name                |      Line      |
 |:-----------------------------------:|:--------------:|
 | selection sort, descending order    |  1             |
@@ -8,3 +9,4 @@
 | Reverse array                       |  92            |
 | Remove element                      |  108           |
 | Print even odd pattern              |  127           |
+</center>
