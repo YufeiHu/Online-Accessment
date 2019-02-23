@@ -1,5 +1,5 @@
 |                 Name                  |      Line      |
-|:-------------------------------------:|:--------------:|
+|---------------------------------------|:--------------:|
 | selection sort, descending order      |  1             |
 | selection sort, ascending order       |  23            |
 | bubble sort, ascending order          |  27            |
