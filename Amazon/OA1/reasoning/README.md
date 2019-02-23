@@ -1,3 +1,5 @@
 ## Reference:
 
 [https://www.evernote.com/client/snv?noteGuid=818ee16b-58ba-4e87-b2f1-1cfd31a2c6cb&noteKey=0ebd7ed6e9399009&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs683%2Fsh%2F818ee16b-58ba-4e87-b2f1-1cfd31a2c6cb%2F0ebd7ed6e9399009&exp=ENB3907&title=](https://www.evernote.com/client/snv?noteGuid=818ee16b-58ba-4e87-b2f1-1cfd31a2c6cb&noteKey=0ebd7ed6e9399009&var=b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs683%2Fsh%2F818ee16b-58ba-4e87-b2f1-1cfd31a2c6cb%2F0ebd7ed6e9399009&exp=ENB3907&title=)
+
+[http://52.14.116.56/2017/09/03/Interview/Interview-Amazon-OA1-Logic/?nsukey=NwYuZqhIgZs2NXdr13nwy0Rt%2B8KmkXGGhLczmLY63h%2BsgRs6eU7fte5JNCV7%2FcFVm6SIJkQZHAMxXsw0LEH2fFzoiUkxb2I1L8kU4hxdrdB6WszTHOg8KEcm3bNfeqU9OOD6Kvqveh2wF6CKwhe237XEC16LHRzK8nsjUC70AVC1xjfrHmK2nIEGemmzoXYODpxcToZRw1CYWvcSnLe4NA%3D%3D](http://52.14.116.56/2017/09/03/Interview/Interview-Amazon-OA1-Logic/?nsukey=NwYuZqhIgZs2NXdr13nwy0Rt%2B8KmkXGGhLczmLY63h%2BsgRs6eU7fte5JNCV7%2FcFVm6SIJkQZHAMxXsw0LEH2fFzoiUkxb2I1L8kU4hxdrdB6WszTHOg8KEcm3bNfeqU9OOD6Kvqveh2wF6CKwhe237XEC16LHRzK8nsjUC70AVC1xjfrHmK2nIEGemmzoXYODpxcToZRw1CYWvcSnLe4NA%3D%3D)
