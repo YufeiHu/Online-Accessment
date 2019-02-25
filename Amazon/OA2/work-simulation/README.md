@@ -181,7 +181,7 @@ Fail - Test5
 
 5 - How many customers is this affecting?
 
-5 - How does this affect customers
+5 - How does this affect customers?
 
 4 - Are we receiving complaints from customers?
 
