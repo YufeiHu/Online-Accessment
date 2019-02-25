@@ -152,8 +152,8 @@ Database field storing username is too short
 3 - F, G
 
 
-## Q17: ？
-?
+## Q17: Customer complaints on recommendation feature
+I think Service 3 is the problem, but I would like to see another report to confirm
 
 
 ## Q18: Problem with Product.wasPurchasedByUser()
