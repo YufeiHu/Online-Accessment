@@ -7,7 +7,7 @@
 import heapq
 
 class Solution:
-    # O(nlogn)
+    # O(n + klogn)
     def kClosest(self, points, K):
         if K == 0:
             return list()
@@ -21,7 +21,7 @@ class Solution:
         # O(n)
         heapq.heapify(distance)
         
-        # O(nlogn)
+        # O(klogn)
         ans = list()
         for _ in range(min(len(distance), K)):
             ans.append(heapq.heappop(distance)[1])
